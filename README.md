@@ -13,6 +13,7 @@ Many dashboards include analyses of job satisfaction or engagement scores — fo
 🔹 Interactivity & Filtering <br>
 Users can filter views by department, gender, age band, and other attributes to explore trends in specific subsets of the workforce. Filters and tooltips enhance user experience and allow for customized, scenario-specific analysis.<br>
 <h2>🎯 Purpose and Impact</h2>
-The core goal of the HR Analytics Dashboard is to enable data-driven decision-making in HR functions — such as improving employee retention, understanding workforce composition, identifying risk areas, and supporting strategic planning. By turning raw HR data into clear visual stories, the dashboard empowers HR teams to quickly spot patterns and communicate insights to business leaders
+The core goal of the HR Analytics Dashboard is to enable data-driven decision-making in HR functions — such as improving employee retention, understanding workforce composition, identifying risk areas, and supporting strategic planning. By turning raw HR data into clear visual stories, the dashboard empowers HR teams to quickly spot patterns and communicate insights to business leaders.
+
 <img width="1557" height="870" alt="image" src="https://github.com/user-attachments/assets/52d487f3-6656-478d-ae99-5326c87fdf90" />
 <a href="https://public.tableau.com/app/profile/ha.do6080/viz/HRAnalyticsDashboard_17717589753970/HRANALYTICSDASHBOARD?publish=yes">click here to view</a>
